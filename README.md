@@ -9,8 +9,11 @@ It can be found at: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ## Requirements:
 Python 3.x
+
 pandas
+
 scikit-learn
+
 matplotlib
 
 ## Instructions:
